@@ -1,0 +1,16 @@
+{
+  "intensity": {
+    "intensity": {
+      "label": "Intensity",
+      "name": "Name",
+      "value": "Value"
+    },
+    "advanced": {
+      "label": "Advanced",
+      "minimum": "Minimum",
+      "maximum": "Maximum",
+      "out": "Send to msg."
+    }
+
+  }
+}
